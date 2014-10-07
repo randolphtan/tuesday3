@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# TUESDAY3
+#
+
+projectname: TUESDAY3
+vendorid: com.mycompany
+mainmodule: com.mycompany.tuesday3
